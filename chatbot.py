@@ -1,7 +1,9 @@
 import re
 import random
 import streamlit as st
-!pip install pillow
+from PIL import Image
+
+
 
 
 # Define patterns and responses
