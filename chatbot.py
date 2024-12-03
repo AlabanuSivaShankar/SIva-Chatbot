@@ -1,5 +1,6 @@
 import re
 import random
+import streamlit as st
 
 # Define patterns and responses
 patterns = {
