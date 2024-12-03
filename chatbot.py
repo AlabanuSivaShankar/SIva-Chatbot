@@ -1,6 +1,8 @@
 import re
 import random
 import streamlit as st
+!pip install pillow
+
 
 # Define patterns and responses
 patterns = {
